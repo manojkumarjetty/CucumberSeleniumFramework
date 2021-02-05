@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="44.917945">
+<testcase classname="To Add items to cart" name="Validate number of items added to cart" time="18.07025">
+<system-out><![CDATA[Given I open "Chrome" browser and launch the Amazon application.............passed
+Then I click on Menu........................................................passed
+Then I select Echo and Alexa from under Digital content and Devices.........passed
+Then I select Echo Dot 3rd Gen item.........................................passed
+Then I retrieve the items count in cart.....................................passed
+When I click on Add to cart.................................................passed
+Then Added Items count in cart should be retrieved..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="To Add items to cart" name="Validate number of items added to cart 2" time="26.847695">
+<system-out><![CDATA[Given I open "Firefox" browser and launch the Amazon application............passed
+Then I click on Menu........................................................passed
+Then I select Echo and Alexa from under Digital content and Devices.........passed
+Then I select Echo Dot 3rd Gen item.........................................passed
+Then I retrieve the items count in cart.....................................passed
+When I click on Add to cart.................................................passed
+Then Added Items count in cart should be retrieved..........................passed
+]]></system-out>
+</testcase>
+</testsuite>
