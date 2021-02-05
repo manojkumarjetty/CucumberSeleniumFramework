@@ -29,5 +29,4 @@ public class AmazonHomePage {
 	public void clickSearchSubmitButton() {
 		searchsubmitbutton.click();
 	}
-/**/
 }
