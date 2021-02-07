@@ -21,7 +21,7 @@ public class CaseStudy0 {
 		driver.findElement(By.xpath("//span[@class='a-button-text a-declarative']")).click();
 		// The below code will select 'United States +1' Mobile extension code
 		driver.findElement(By.xpath("//a[text()='United States +1']")).click();
-		// driver.close();
+		 driver.close();
 	}
 
 }
