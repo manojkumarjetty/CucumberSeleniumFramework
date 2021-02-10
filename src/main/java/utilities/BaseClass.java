@@ -40,3 +40,5 @@ public class BaseClass {
 		new WebDriverWait(driver, timeout).until(ExpectedConditions.elementToBeClickable(element));// Expectedcondition
 	}
 }
+
+
