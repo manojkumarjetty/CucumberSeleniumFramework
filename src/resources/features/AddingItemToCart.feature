@@ -15,6 +15,6 @@ Then Added Items count in cart should be retrieved
 Examples: 
 |Browser				 |
 |Chrome                  |
-|Firefox                 |
+
       
       
